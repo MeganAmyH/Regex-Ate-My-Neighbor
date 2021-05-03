@@ -1,0 +1,13 @@
+C:\Users\megan\source\repos\RegEx Ate My Neighbors\RegEx Ate My Neighbors\bin\Debug\netcoreapp3.1\RegEx Ate My Neighbors.exe
+C:\Users\megan\source\repos\RegEx Ate My Neighbors\RegEx Ate My Neighbors\bin\Debug\netcoreapp3.1\RegEx Ate My Neighbors.deps.json
+C:\Users\megan\source\repos\RegEx Ate My Neighbors\RegEx Ate My Neighbors\bin\Debug\netcoreapp3.1\RegEx Ate My Neighbors.runtimeconfig.json
+C:\Users\megan\source\repos\RegEx Ate My Neighbors\RegEx Ate My Neighbors\bin\Debug\netcoreapp3.1\RegEx Ate My Neighbors.runtimeconfig.dev.json
+C:\Users\megan\source\repos\RegEx Ate My Neighbors\RegEx Ate My Neighbors\bin\Debug\netcoreapp3.1\RegEx Ate My Neighbors.dll
+C:\Users\megan\source\repos\RegEx Ate My Neighbors\RegEx Ate My Neighbors\bin\Debug\netcoreapp3.1\RegEx Ate My Neighbors.pdb
+C:\Users\megan\source\repos\RegEx Ate My Neighbors\RegEx Ate My Neighbors\obj\Debug\netcoreapp3.1\RegEx Ate My Neighbors.csprojAssemblyReference.cache
+C:\Users\megan\source\repos\RegEx Ate My Neighbors\RegEx Ate My Neighbors\obj\Debug\netcoreapp3.1\RegEx Ate My Neighbors.AssemblyInfoInputs.cache
+C:\Users\megan\source\repos\RegEx Ate My Neighbors\RegEx Ate My Neighbors\obj\Debug\netcoreapp3.1\RegEx Ate My Neighbors.AssemblyInfo.cs
+C:\Users\megan\source\repos\RegEx Ate My Neighbors\RegEx Ate My Neighbors\obj\Debug\netcoreapp3.1\RegEx Ate My Neighbors.csproj.CoreCompileInputs.cache
+C:\Users\megan\source\repos\RegEx Ate My Neighbors\RegEx Ate My Neighbors\obj\Debug\netcoreapp3.1\RegEx Ate My Neighbors.dll
+C:\Users\megan\source\repos\RegEx Ate My Neighbors\RegEx Ate My Neighbors\obj\Debug\netcoreapp3.1\RegEx Ate My Neighbors.pdb
+C:\Users\megan\source\repos\RegEx Ate My Neighbors\RegEx Ate My Neighbors\obj\Debug\netcoreapp3.1\RegEx Ate My Neighbors.genruntimeconfig.cache
